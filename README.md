@@ -1,1 +1,0 @@
-# data-sharding-jdbc
